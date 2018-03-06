@@ -1,0 +1,6 @@
+Los componentes son clases normales con un decorador específico.
+
+Las directivas estructurales son las que le dicen al HTML que se debe hacer.
+
+ngIf-> Mostrar/Ocultar un elemento
+ngFor -> Iterar una lista
