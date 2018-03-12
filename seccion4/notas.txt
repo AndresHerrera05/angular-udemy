@@ -1,0 +1,3 @@
+ng new NOMBRE_PROYECTO
+ng generate component components/home -is // -is no genera los estilos
+ng g c components/home -is
