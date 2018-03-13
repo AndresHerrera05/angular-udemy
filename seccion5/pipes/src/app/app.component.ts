@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   nombre: string = "Andrés";
+  arreglo: number[] = [1,2,3,4,5,6,7,8,9,10];
+  PI:number = Math.PI;
+  a:number = 0.234;
 }
